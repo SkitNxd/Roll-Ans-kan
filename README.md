@@ -1,1 +1,1 @@
-# Roll-Ans-kan
+# Endast gjord för roll ansökan.
